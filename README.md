@@ -15,8 +15,8 @@ E também o inverso.<br>
 O conversor também pode converter diferentes medidas de Temperatura: Celsius (°C), Fahrenheit (°F) e Kelvin (K);
 ## Limitações
 <ul>
-<li>O conversor usa valores de câmbio fixo;</li> 
-<li>Não possui uma janela que volte a tela principal;<li>
+<li>O conversor usa valores de câmbio fixos;</li> 
+<li>Não possui uma janela que volte a tela principal;</li>
 <li>Bastante rudimentar.</li>
 </ul>
 
